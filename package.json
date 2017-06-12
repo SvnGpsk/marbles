@@ -38,7 +38,7 @@
 		"gulp-buster": "*"
 	},
 	"author": {
-    	"name": "David Huffman"
+		"name": "David Huffman"
 	},
 	"license": "Apache-2.0"
 }
